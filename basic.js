@@ -52,4 +52,51 @@
 
 // console.log(profile)
 
-console.log("modified")
+// console.log("modified")
+
+// let a=13
+// let b=23
+// console.log(a+b)
+// console.log(a-b)
+// console.log(a*b)
+// console.log(a/b)
+// console.log(a**3)
+
+// console.log(a++) print then increment
+// console.log(++a) increment then print
+// a++: post-increment
+// ++a: pre-increment
+
+// let a=23 //number
+// let b="23" //string
+// console.log(a==b) //true
+// console.log(a===b) //False
+
+//AND: &&, OR: ||
+// let age=13
+// if(age>=18){
+//     console.log("adult");
+// }else{
+//     console.log("teen");
+// }
+
+// let a=32
+// let b=21
+// let c=67
+// if(a>b && a>c){
+//     console.log(c)
+// }else if(b>c){
+//     console.log(b)
+// }else{
+//     console.log(c)
+// }
+
+// ternery operator
+// let age=32
+// age>=60?console.log("retire"):console.log("working")
+
+// let age=12
+// age>=18?"adult":"teen"
+
+let num=prompt("enter number:")
+num%5==0?console.log("divisible"):console.log("not divisible")
