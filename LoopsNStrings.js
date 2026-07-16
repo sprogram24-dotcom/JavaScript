@@ -55,7 +55,7 @@
 // let output=`the price of the ${obj.name} is ${obj.price}`;
 // console.log(output);
 
-let str=prompt("enter your full name:");
-let user=str.toLowerCase().replace(/ /g,"");
-console.log(user);
-console.log(`@${user}${user.length}`);
+// let str=prompt("enter your full name:");
+// let user=str.toLowerCase().replace(/ /g,"");
+// console.log(user);
+// console.log(`@${user}${user.length}`);
