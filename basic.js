@@ -98,5 +98,5 @@
 // let age=12
 // age>=18?"adult":"teen"
 
-let num=prompt("enter number:")
-num%5==0?console.log("divisible"):console.log("not divisible")
+// let num=prompt("enter number:")
+// num%5==0?console.log("divisible"):console.log("not divisible")
